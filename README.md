@@ -1,2 +1,2 @@
-# openagents-target-demo
-OpenAgents delivery target — reviewed code lands here
+# openagents-submissions
+OpenAgents worker submission pipeline
